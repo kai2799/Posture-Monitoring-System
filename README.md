@@ -17,4 +17,3 @@ The **Posture Monitoring System** helps users maintain proper sitting posture us
 - **OpenCV** (Image processing)  
 - **MediaPipe** (Posture detection)  
 - **CNN Model** (AI-based classification)  
->>>>>>> 85089a2 (Initial commit - Added posture monitoring system files)
